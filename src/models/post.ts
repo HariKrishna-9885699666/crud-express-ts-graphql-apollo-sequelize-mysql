@@ -69,7 +69,7 @@ Post.init(
     },
   },
   {
-    tableName: 'posts',
+    tableName: 'Posts',
     sequelize, // passing the `sequelize` instance is required
   }
 );
