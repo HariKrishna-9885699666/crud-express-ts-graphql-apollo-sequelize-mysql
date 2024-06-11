@@ -118,7 +118,7 @@ const employeeResolver = {
         }
     
         await employee.destroy();
-        return { success: true };
+        return true;
       } catch (error: any) {
         if (error instanceof GraphQLError) {
           throw error;
