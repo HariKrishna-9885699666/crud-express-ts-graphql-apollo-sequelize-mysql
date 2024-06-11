@@ -5,7 +5,9 @@
   "scripts": {
     "start": "tsc && node dist/server.js",
     "dev": "ts-node-dev src/server.ts",
-    "migrate": "npx sequelize-cli db:migrate"
+    "migrate": "npx sequelize-cli db:migrate",
+    "clean": "rm -rf dist",
+    "build": "npm run clean && tsc"
   },
   "keywords": [],
   "author": "",
