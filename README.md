@@ -58,3 +58,26 @@ The project also includes a basic API for handling CRUD operations on blog posts
 - Sequelize as the ORM for interacting with the MySQL database
 - MySQL as the database
 
+## Screenshots
+
+## Create Employee
+![Screenshot1](https://img001.prntscr.com/file/img001/mhJBcqXmTpmm1PVkVAlvFA.png)
+)
+
+## Update Employee
+![Screenshot1](https://img001.prntscr.com/file/img001/UgWdTdTkTWCPs9VLv3TUxw.png)
+
+## Get Employee
+![Screenshot1](https://img001.prntscr.com/file/img001/7-DqIT8NToev9fY-RnCH7Q.png)
+
+## Get All Employees
+![Screenshot1](https://img001.prntscr.com/file/img001/gLiwgS2FQXSG9TMc18_fAg.png)
+
+## Delete Employee
+![Screenshot1](https://img001.prntscr.com/file/img001/6sR2gARqQzm03J-OCHARKA.png)
+
+## Create Post
+![Screenshot1](https://img001.prntscr.com/file/img001/SdBBhmtsQx6pt_6sIA79qg.png)
+
+## Create Comment
+![Screenshot1](https://img001.prntscr.com/file/img001/zKXma-4XQ9SnPSW-cJAWVA.png)
